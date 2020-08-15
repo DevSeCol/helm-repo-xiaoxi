@@ -1,3 +1,6 @@
+# Helm chart automated files
+/charts/*/charts
+
 # Local .terraform directories
 **/.terraform/*
 
