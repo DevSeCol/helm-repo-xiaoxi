@@ -3,9 +3,9 @@ entries:
   example-v1:
   - apiVersion: v1
     appVersion: "3.9"
-    created: "2020-08-26T11:35:13.678844042Z"
+    created: "2020-08-27T23:20:14.809560279Z"
     description: Deploy a basic Alpine Linux pod
-    digest: a7919079fad5f8ce4e2658a0735ab29b03cfa7cd0ce0dc239176867753d684d8
+    digest: 122177a87745304eadbd187ea2062f8040f81f1ad6cf845ae5cd2dc0162063a9
     home: https://helm.sh/helm
     maintainers:
     - email: email-1@example.com
@@ -14,6 +14,6 @@ entries:
     sources:
     - https://github.com/helm/helm
     urls:
-    - https://github.com/DevSeCol/helm-repo-xiaoxi/releases/download/example-v1-0.1.8/example-v1-0.1.8.tgz
-    version: 0.1.8
-generated: "2020-08-26T11:35:13.489330117Z"
+    - https://github.com/DevSeCol/helm-repo-xiaoxi/releases/download/example-v1-0.1.9/example-v1-0.1.9.tgz
+    version: 0.1.9
+generated: "2020-08-27T23:20:14.618195999Z"
